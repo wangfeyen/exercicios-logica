@@ -1,3 +1,4 @@
+//exercício 9: Primo ou n
 const prompt = require("prompt-sync")()
 var num = parseFloat(prompt("Número para a verificação: "))
 var prim = true
