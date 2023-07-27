@@ -32,10 +32,8 @@ while(num1*1!==numaleatorio*1){
                 console.log("Está esfriando")
                 num2=num1;
             }else{
-                if (Math.abs(num1*1-numaleatorio*1)<=Math.abs(num2*1-numaleatorio*1)){
                 console.log("Está esquentando")
                 num2=num1
-                }
             }
         }
     }
