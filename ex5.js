@@ -1,4 +1,4 @@
-//exercício 5:
+//exercício 5: ímpar ou par
 const prompt = require("prompt-sync")()
 var num = parseFloat(prompt("Digite o número a ser analisado: "));
 if(num%2===0){

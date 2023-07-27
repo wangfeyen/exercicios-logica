@@ -1,4 +1,4 @@
-//exercício 6:
+//exercício 6:Média
 const prompt=require("prompt-sync")();
 var num1 = parseFloat(prompt("Digite o primeiro número: "));
 var num2 = parseFloat(prompt("Digite o segundo: "));
